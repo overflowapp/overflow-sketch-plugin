@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Overflow Plugin</title>
+		<description>Overflow is a new design tool that brings together flow diagramming and rapid prototyping to create, present and share digital designs in an interactive and engaging way.</description>
+		<language>en</language>
+		<item>
+	        <title>Version 0.1.17</title>
+	        <description>
+	          <![CDATA[
+	            <ul>
+	              <li>Fix compatibility issues with Abstract</li>
+	            </ul>
+	          ]]>
+	        </description>
+	        <enclosure url="https://github.com/overflowapp/overflow-sketch-plugin/releases/download/v0.1.17/Overflow.sketchplugin.zip" sparkle:version="0.1.17" />
+      	</item>
+	</channel>
+</rss>
