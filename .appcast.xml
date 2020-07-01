@@ -5,6 +5,17 @@
 		<link>https://raw.githubusercontent.com/overflowapp/overflow-sketch-plugin/master/.appcast.xml</link>
 		<description>Overflow is a new design tool that brings together flow diagramming and rapid prototyping to create, present and share digital designs in an interactive and engaging way.</description>
 		<language>en</language>
+		<item>
+            <title>Version 0.1.19</title>
+            <description>
+              <![CDATA[
+                <ul>
+                  <li>Fix compatibility issues with Sketch v67</li>
+                </ul>
+              ]]>
+            </description>
+            <enclosure url="https://github.com/overflowapp/overflow-sketch-plugin/releases/download/v0.1.19/Overflow.sketchplugin.zip" sparkle:version="0.1.19" />
+        </item>
         <item>
             <title>Version 0.1.18</title>
             <description>
