@@ -6,6 +6,17 @@
 		<description>Overflow is a new design tool that brings together flow diagramming and rapid prototyping to create, present and share digital designs in an interactive and engaging way.</description>
 		<language>en</language>
     <item>
+        <title>Version 0.2.7</title>
+        <description>
+            <![CDATA[
+            <ul>
+              <li>Bug fixes: Fixed an issue where some users could not correctly sync to Overflow/li>
+            </ul>
+        ]]>
+        </description>
+        <enclosure url="https://github.com/overflowapp/overflow-sketch-plugin/releases/download/v0.2.7/Overflow.sketchplugin.zip" sparkle:version="0.2.7" />
+    </item>
+    <item>
         <title>Version 0.2.6</title>
         <description>
             <![CDATA[
